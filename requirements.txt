@@ -6,3 +6,4 @@ seaborn
 tqdm
 pygame
 ipykernel
+gymnasium[other]
